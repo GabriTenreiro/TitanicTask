@@ -3,7 +3,7 @@ Tarea sibd Gabriel Tenreiro Calvo
 
 # 🧮 Proyecto: Análisis del Titanic con Pandas
 
-Este proyecto demuestra cómo realizar un **análisis exploratorio de datos (EDA)** utilizando la librería **Pandas** 🐼.  
+Este proyecto demuestra cómo realizar un **análisis de datos** utilizando la librería **Pandas** 🐼.  
 El objetivo es practicar las operaciones más comunes de manipulación, limpieza y análisis de datos sobre el clásico dataset del **Titanic**.
 
 ---
@@ -21,15 +21,32 @@ El objetivo es practicar las operaciones más comunes de manipulación, limpieza
 # 🚀 Paso a Paso
 
 ---
-
 ## 🧩 Step 1: Inspecting the Data
 
-Funciones básicas para explorar el DataFrame:
 
-```python
-df.head()       # Primeras 5 filas
-df.tail()       # Últimas 5 filas
-df.info()       # Tipos de datos y valores no nulos
-df.describe()   # Estadísticas básicas
-df.shape        # (filas, columnas)
-df.columns      # Nombres de las columnas
+---
+## 🔎 Step 2: Selecting Data
+
+
+---
+## 🔍 Step 3: Filtering Rows
+
+
+---
+## 🧹 Step 4: Handling Missing Data
+
+
+---
+## 📊 Step 5: Grouping and Aggregating
+
+
+---
+## 📈 Step 6: Sorting and Counting
+
+
+---
+## ⚙️ Step 7: Creating or Modifying Columns
+
+
+---
+## 💾 Step 8: Exporting Data
